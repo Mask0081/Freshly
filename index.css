@@ -10,3 +10,12 @@ body{
 .fok{
     font-family: kanit;
 }
+.lo-si{
+    font-family: kanit;
+}
+.bgi{
+    background-image:url(./images/Veges.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
