@@ -19,3 +19,6 @@ body{
     background-size: cover;
     height: 500px;
 }
+.get{
+    grid-template-columns: auto auto auto auto;
+}
